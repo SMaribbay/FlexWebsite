@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+body{
+  background: #D5FEF0;
+  color: black;
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+
+}
+.header {
+  display: flex;
+align-items: center;
+
+}
+h1 {
+font-size: 100px;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+background-color: #9C0500;
+border-color: #DA7AEB;
+border-width: medium;
+
+}
+.Straw{
+    display: flex;
+    width:100%;
+justify-content: center;
+}
+
+.suck{
+ text-align: center;
+
+}
+.navMenu{
+  display: block;
+  position: sticky;
+  background-color: #98EBBE;
+  position: fixed;
+  height:100%;
+  width:80px;
+
+  padding-left: 15px;
+  top: 0px;
+  left:0px;
+}
+h2 {
+  display: block;
+  align-items: baseline;
+font-size: 40px;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+background-color: #9C0500;
+border-color: #DA7AEB;
+border-width: medium;
+
+}
